@@ -30,7 +30,7 @@ options.simulator.language = 'en'
 options.simulator.kill_after = true
 
 options.instruments.do_verbose = false
-options.instruments.timeout = 30
+options.instruments.timeout = 12
 
 options.javascript.test_path = all_test_path
 options.javascript.implementation = 'iPhone'
